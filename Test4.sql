@@ -1,0 +1,1 @@
+Select productCode from products;
